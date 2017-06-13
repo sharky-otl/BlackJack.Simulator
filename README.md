@@ -1,2 +1,3 @@
 # BlackJack.Simulator
-A refactored version of a conglomeration of previous blackjack simulation projects found on the web.
+A refactored version of a conglomeration of other blackjack simulation projects found on the web.
+Still a work in progress...
